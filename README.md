@@ -10,8 +10,8 @@ https://www.puresourcecode.com/apps/pwa-notifications/
 
 ## Screenshots
 
-<img src="./assets/pwa-sc1.png" height="400px"/>
-<img src="./assets/pwa-sc2.png" height="400px"/>
+<img src="./assets/pwa-notifications-screenshot1.jpg" height="400px"/>
+<img src="./assets/pwa-notifications-screenshot2.jpg" height="400px"/>
 
 We will make use of the <strong>Notification API</strong>
 
